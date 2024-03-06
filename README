@@ -1,0 +1,9 @@
+This java project is designed to generate giberish words - that is words that do not exist in the english language.
+However, the caviate is that these words are supposed to be pronouncable. This works by feeding the program a large set of real words from the English Language. It uses this to develop patterns in common characters and to pronounce artificial words that are similar. 
+
+Some concepts used in this project:
+-Tree structure
+-extensive use of objects
+-processing large amounts of data efficiently
+
+This was one of my favorite projects I've developed! Please feel free to look into it in depth and to understand how it works.
